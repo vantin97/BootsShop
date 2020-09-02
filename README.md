@@ -4,9 +4,9 @@
 
 ## Preview
 
-[![Shop Homepage Preview](https://startbootstrap.com/assets/img/templates/shop-homepage.jpg)](https://blackrockdigital.github.io/startbootstrap-shop-homepage/)
+https://vantin97.github.io/BootsShop/
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-shop-homepage/)**
+
 
 ## Status
 
